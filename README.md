@@ -36,7 +36,7 @@
 ## 🧠 Tecnologias que estou usando:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=gcp,github,supabase,windows,linux" />
+  <img src="https://skillicons.dev/icons?i=gcp,github,supabase,powershall,windows,linux" />
 </p>
 
 ---
