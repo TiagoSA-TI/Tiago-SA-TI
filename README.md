@@ -46,7 +46,7 @@
 🧠Redes de computadores 
 <br>
 💡Aplicações web  
-<br> 🌐Programação
+🌐Programação
 <br>
 
 ---
