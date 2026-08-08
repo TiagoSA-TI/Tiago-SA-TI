@@ -41,17 +41,11 @@
 
 ## 📚 Componentes Curriculares do Curso SENAC
 
-- 📝 
-- ⚡ 
-- 🧠 
-- 💡 
-- 🌐 
-- 📱 
-- 🗄️ 
-- 🧩 
-- 💻 
-- 🔧 
-- 🧱 
+📝Manutenção de computadores 
+⚡Montagem e desmontagem de computadores 
+🧠Redes de computadores 
+💡Aplicações web  
+🌐Programação
 
 ---
 
