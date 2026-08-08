@@ -16,9 +16,7 @@
   <br>
   🚀 Criador de projetos pessoais
   <br>
-  🌐 Portfólio:
-  <a href="https://seusite.com">Clique aqui</a>
-</p>
+ 
 
 ---
 
