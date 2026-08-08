@@ -20,8 +20,6 @@
 
 ---
 
-## ⌨️ Digitação Automática:
-
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+Git;Desenvolvedor+em+forma%C3%A7%C3%A3o;Sempre+aprendendo+algo+novo"
@@ -42,9 +40,13 @@
 ## 📚 Componentes Curriculares do Curso SENAC
 
 📝Manutenção de computadores 
+<br>
 ⚡Montagem e desmontagem de computadores 
+<br>
 🧠Redes de computadores 
+<br>
 💡Aplicações web  
+<br>
 🌐Programação
 
 ---
